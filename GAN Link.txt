@@ -1,0 +1,12 @@
+Some useful links for GAN:
+
+https://www.youtube.com/watch?v=Mng57Tj18pc&t=1225s
+
+https://www.youtube.com/watch?v=tX-6CMNnT64
+
+https://www.youtube.com/watch?v=8L11aMN5KY8&t=670s
+
+https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/
+
+https://towardsdatascience.com/generative-adversarial-networks-explained-34472718707a
+
